@@ -1,5 +1,3 @@
-![Transportadora](https://github.com/shiinzinho/Repositorio-de-API-do-projeto-Drogazin/assets/140071474/9614d32c-65d6-4034-b07d-5bf9b61f7041)
-
 Página de Fornecedor do Site Drogazin:
 
 Bem-vindo à página da transportadora da Drogazin!
@@ -9,6 +7,8 @@ Na Drogazin, nos esforçamos para oferecer a melhor experiência de compra onlin
 Nossa transportadora possui uma ampla cobertura geográfica, o que significa que podemos atender clientes em todo o país. Independentemente de onde você esteja, faremos o possível para garantir que seus produtos cheguem até você no prazo estipulado.
 
 A segurança é uma prioridade para nós. Nossa transportadora segue rigorosos protocolos de segurança para garantir que seus medicamentos e produtos farmacêuticos sejam manuseados adequadamente durante o transporte. Além disso, trabalhamos para garantir a embalagem adequada de seus produtos, protegendo-os de danos durante o transporte.
+
+![Transportadora](https://github.com/shiinzinho/Repositorio-de-API-do-projeto-Drogazin/assets/140071474/9614d32c-65d6-4034-b07d-5bf9b61f7041)
 
 Ao efetuar uma compra em nosso site, você receberá informações detalhadas sobre o prazo de entrega estimado para sua região. Nossa transportadora também oferece a opção de rastreamento do pedido, para que você possa acompanhar o status da entrega em tempo real.
 
