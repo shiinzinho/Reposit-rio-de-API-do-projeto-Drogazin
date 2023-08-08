@@ -1,5 +1,5 @@
 # Repositorio de API do-projeto Drogazin API com PHP e Laravel
-![Drogazin logo](Logo.png "Drogazin logo")
+![Logo](https://github.com/shiinzinho/Repositorio-de-API-do-projeto-Drogazin/assets/140071474/a3e30106-4da9-4ec8-9d8a-50a474779c73)
 
 1. Página de Login: A página de login do site Drograzin é o ponto de acesso para clientes cadastrados. Nesta página, os usuários podem inserir suas credenciais para acessar recursos exclusivos, como histórico de pedidos, informações de perfil e possíveis benefícios exclusivos. Essa página é essencial para garantir a segurança e a privacidade dos dados dos clientes.
 
