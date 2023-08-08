@@ -1,5 +1,5 @@
 # Repositorio de API do-projeto Drogazin API com PHP e Laravel
-
+![Alt text](C:\Users\Aluno\Desktop\drogazin-api\Logo.png "Logo")
 1. Página de Login: A página de login do site Drograzin é o ponto de acesso para clientes cadastrados. Nesta página, os usuários podem inserir suas credenciais para acessar recursos exclusivos, como histórico de pedidos, informações de perfil e possíveis benefícios exclusivos. Essa página é essencial para garantir a segurança e a privacidade dos dados dos clientes.
 
 2. Produtos: A página de produtos é onde os clientes podem explorar a variedade de medicamentos e produtos disponíveis na Drograzin. Organize-os de forma clara e categorizada para facilitar a busca. Certifique-se de fornecer descrições detalhadas, incluindo informações sobre indicações, dosagens, efeitos colaterais e precauções. Isso ajudará os clientes a tomar decisões informadas sobre suas compras.
