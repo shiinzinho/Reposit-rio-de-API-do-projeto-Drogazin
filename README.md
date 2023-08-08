@@ -1,19 +1,24 @@
 # Repositorio de API do-projeto Drogazin API com PHP e Laravel
 
-1. Página Inicial: A página inicial do seu site Drograzin é a porta de entrada para seus clientes em potencial. Certifique-se de que ela seja atraente e ofereça uma visão geral dos produtos e serviços que você oferece. Destaque promoções especiais, informações sobre entrega em domicílio e qualquer outra vantagem exclusiva que a Drograzin possa oferecer.
+1. Página de Login: A página de login do site Drograzin é o ponto de acesso para clientes cadastrados. Nesta página, os usuários podem inserir suas credenciais para acessar recursos exclusivos, como histórico de pedidos, informações de perfil e possíveis benefícios exclusivos. Essa página é essencial para garantir a segurança e a privacidade dos dados dos clientes.
 
-2. Produtos: Tenha uma página dedicada aos produtos disponíveis em sua farmácia. Organize-os em categorias claras, como medicamentos de venda livre, produtos para cuidados pessoais, suplementos vitamínicos, entre outros. Descreva detalhadamente cada produto, incluindo suas indicações, modo de uso, efeitos colaterais e precauções.
+2. Produtos: A página de produtos é onde os clientes podem explorar a variedade de medicamentos e produtos disponíveis na Drograzin. Organize-os de forma clara e categorizada para facilitar a busca. Certifique-se de fornecer descrições detalhadas, incluindo informações sobre indicações, dosagens, efeitos colaterais e precauções. Isso ajudará os clientes a tomar decisões informadas sobre suas compras.
 
-3. Serviços: É importante destacar os serviços especiais que a Drograzin oferece. Isso pode incluir entrega em domicílio gratuita, atendimento farmacêutico personalizado, programas de fidelidade ou descontos exclusivos para clientes. Explique como esses serviços funcionam e como os clientes podem se beneficiar deles.
+3. Transportadora: A página de transportadora é útil para fornecer informações sobre os métodos de entrega disponíveis pela Drograzin. Explique as opções de entrega, os prazos estimados e as políticas de frete. Se possível, inclua um rastreador de encomendas para que os clientes possam acompanhar o status de suas entregas. Isso ajudará a garantir uma experiência de compra satisfatória e transparente.
 
-4. Informações sobre a Farmácia: Tenha uma página dedicada a fornecer informações sobre a Drograzin. Inclua o endereço completo da farmácia, horário de funcionamento, informações sobre a equipe farmacêutica e qualquer outra informação relevante, como serviços de laboratório ou testes de saúde que você oferece. Isso ajudará a construir confiança e mostrará aos clientes que eles estão escolhendo uma farmácia confiável e bem informada.
+4. Fornecedor: A página de fornecedor é importante para mostrar aos clientes a origem e a qualidade dos produtos oferecidos pela Drograzin. Forneça informações sobre os fornecedores com os quais você trabalha, destacando sua reputação e comprometimento com a qualidade. Isso ajudará a construir confiança e credibilidade com os clientes, mostrando que você se preocupa em fornecer produtos confiáveis e seguros.
 
-5. Blog ou Notícias: Considere adicionar um blog ou uma seção de notícias ao seu site. Isso permitirá que você compartilhe informações relevantes sobre saúde, novidades na indústria farmacêutica, dicas de bem-estar e muito mais. Manter um blog atualizado ajudará a posicionar a Drograzin como uma autoridade no setor e fornecerá conteúdo valioso para seus clientes.
+Sobre os criadores do projeto:
 
-6. Perguntas Frequentes: Uma página de Perguntas Frequentes (FAQ) pode ser uma ótima adição ao seu site. Liste as perguntas mais comuns dos clientes e forneça respostas claras e concisas. Isso ajudará a prevenir dúvidas e fornecerá informações importantes aos visitantes do site.
+- Gabriel LC: Gabriel LC é um dos criadores do projeto Drograzin. Sua experiência em desenvolvimento web e paixão pela área da saúde contribuíram para a criação do site. Ele trabalhou na criação da interface do site e na implementação das funcionalidades.
 
-7. Contato: Tenha uma página de contato onde os clientes possam encontrar informações sobre como entrar em contato com a Drograzin. Inclua um número de telefone, endereço de e-mail e, se possível, um formulário de contato. Dessa forma, os clientes poderão se comunicar facilmente com a equipe da farmácia para fazer perguntas ou solicitar informações adicionais.
+- Cláudio: Cláudio é outro membro da equipe de criação do projeto Drograzin. Com sua experiência em design gráfico e usabilidade, ele contribuiu para a aparência atraente e intuitiva do site. Ele se concentrou na criação de um layout agradável aos olhos e na garantia de uma experiência de usuário positiva.
 
+- Enzo: Enzo é um desenvolvedor talentoso que trouxe suas habilidades técnicas para o projeto Drograzin. Ele trabalhou na parte de programação e funcionalidades do site, garantindo que ele fosse rápido, seguro e responsivo em diferentes dispositivos.
+
+- João Pedro: João Pedro é um farmacêutico experiente que desempenhou um papel fundamental na criação do conteúdo do site. Ele forneceu informações precisas e relevantes sobre os produtos, bem como conselhos sobre saúde e bem-estar. Sua expertise farmacêutica ajudou a garantir que o site oferecesse informações confiáveis e úteis aos clientes.
+
+Esses criadores do projeto Drograzin uniram suas habilidades e conhecimentos para criar um site de farmácia confiável, informativo e fácil de usar. O objetivo deles é fornecer aos clientes uma experiência de compra online conveniente, segura e com acesso a produtos de qualidade.
 ## Requisitos
 
 Certifique-se de ter os seguintes requisitos atendidos antes de começar a trabalhar nos exercícios:
