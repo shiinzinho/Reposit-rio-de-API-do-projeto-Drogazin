@@ -2,13 +2,14 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\FornecedoresFormRequest;
 use App\Models\FornecedoresModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
 class FornecedoresController extends Controller
 {
-    public function store(FornecedoresModel $request){
+    public function store(FornecedoresFormRequest $request){
         $fornecedores = FornecedoresModel::create([
             'Nome' => $request->Nome,
             'Contato' => $request->Contato,
@@ -25,7 +26,7 @@ class FornecedoresController extends Controller
         return response()->json([
             "sucess" => true,
             "message" => "Registered User",
-            "data"=>$fornecedores
+            "data"=> $fornecedores
         ], 200);
     }
 }
