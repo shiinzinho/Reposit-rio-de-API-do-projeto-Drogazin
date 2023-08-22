@@ -63,7 +63,7 @@ code .
 ```
 ## Insomnia
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fshiinzinho%2FRepositorio-de-API-do-projeto-Drogazin%2Fmain%2FInsomnia.Json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Drogazin&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fshiinzinho%2FRepositorio-de-API-do-projeto-Drogazin%2Ffeature-crud-fornecedores%2FInsomnia.Json)
 
 ## Licença
 
